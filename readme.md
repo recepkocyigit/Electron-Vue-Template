@@ -52,5 +52,5 @@ After installation use "npm start" to start project
 
 ```bash
   npm start
-  npm run start (opsiyonel)
+  npm run start (optional)
 ```
